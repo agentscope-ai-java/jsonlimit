@@ -131,7 +131,7 @@ limits that matter most and are hardest to retrofit around `Unmarshal`.
 ## Install
 
 ```sh
-go get github.com/__GH_OWNER__/jsonlimit
+go get github.com/agentscope-ai-java/jsonlimit
 ```
 
 Go 1.27+. No runtime dependencies.
@@ -139,7 +139,7 @@ Go 1.27+. No runtime dependencies.
 ## Use
 
 ```go
-import "github.com/__GH_OWNER__/jsonlimit"
+import "github.com/agentscope-ai-java/jsonlimit"
 
 value, err := jsonlimit.Decode(r, jsonlimit.DefaultLimits())
 if err != nil {

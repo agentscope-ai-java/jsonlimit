@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/__GH_OWNER__/jsonlimit"
+	"github.com/agentscope-ai-java/jsonlimit"
 )
 
 // deepNesting returns depth levels of array nesting: well under

@@ -1,3 +1,3 @@
-module github.com/__GH_OWNER__/jsonlimit
+module github.com/agentscope-ai-java/jsonlimit
 
 go 1.27.1

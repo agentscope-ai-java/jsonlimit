@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/__GH_OWNER__/jsonlimit"
+	"github.com/agentscope-ai-java/jsonlimit"
 )
 
 func TestReader_UnderLimitReadsEverything(t *testing.T) {
